@@ -1,0 +1,14 @@
+table, tr, td {
+   
+    border: solid 1px brown;
+    border-collapse: collapse;
+    
+}
+.largura{
+    background-color: rgb(255, 0, 140);
+    color: white;
+}
+
+#largcoluna{
+    width: 10px;
+}
