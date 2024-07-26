@@ -1,1 +1,1 @@
-# despesas-pessoais
+# Criação de uma planilha de gastos pessoais, foi feito uma planilha semestral, para ter noção dos maiores gastos e menores. Uma planilha ótima para ter controle de gastos.    
